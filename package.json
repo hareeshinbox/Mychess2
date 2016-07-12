@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Marcel Molenara Azure",
+  "author": "Marcel Molenara Azure Link Example ",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4",
